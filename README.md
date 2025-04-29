@@ -40,6 +40,20 @@ Predict the MedHouseValue (Median House Value in $100,000s) using features like:
 
 - Evaluated it using R² Score and MSE
 
+<h1>🧪 Training Workflow </h1>
+
+- Data Loading : Used fetch_california_housing() from sklearn.datasets to load the dataset.
+
+- Data Preparation : Converted data into pandas DataFrame for easy handling.
+
+- Split into features (X) and target (y = MedHouseValue).
+
+- Train-Test Split : Used train_test_split() with 80/20 split.
+
+- Model Training : Trained a Linear Regression model using scikit-learn.
+
+- Evaluation : Calculated R² Score and MSE to evaluate the model's performance.
+
 <h1>🧠 PLOTS SECTION - IN ORDER TO SHOW OFF THE KNOWLEDGE</h1>
 
 1. Distribution of the Target Variable (MedHouseValue)
@@ -61,3 +75,19 @@ Shows one of the strongest positive correlations — richer neighborhoods = pric
 How close our model gets to real values — good for visual accuracy.
 
 ![image](https://github.com/user-attachments/assets/bf123cf5-5277-4ebf-88fe-ed9c3081396f)
+
+<h1>⚡ How to Run</h1>
+
+***Clone this repository***
+
+1) git clone [https://github.com/your-username/california-housing-regression.git](https://github.com/HrP14/Sckit_California_Data_Set.git)
+
+2) cd california-housing-regression
+
+***Install requirements (if needed)***
+
+1) pip install -r requirements.txt
+
+Run the notebook using Jupyter or any Python IDE.
+
+

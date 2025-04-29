@@ -6,39 +6,39 @@ This project applies a Linear Regression model on the California Housing dataset
 
 Predict the MedHouseValue (Median House Value in $100,000s) using features like:
 
-Median Income
+- Median Income
 
-House Age
+- House Age
 
-Average Rooms
+- Average Rooms
 
-Location (Latitude & Longitude), etc.
+- Location (Latitude & Longitude), etc.
 
 <h1>🔧 Tools & Libraries Used</h1>
 
-Python
+- Python
 
-Scikit-learn
+- Scikit-learn
 
-Pandas
+- Pandas
 
-Matplotlib & Seaborn
+- Matplotlib & Seaborn
 
 <h1>📊 Model Performance</h1>
 
-R² Score: 0.5757877060324508
+- R² Score: 0.5757877060324508
 
-MSE (Mean Squared Error): 0.5558915986952444
+- MSE (Mean Squared Error): 0.5558915986952444
 
 <h1>🧪 Training Steps</h1>
 
-Loaded the dataset using fetch_california_housing()
+- Loaded the dataset using fetch_california_housing()
 
-Performed basic EDA (with useful plots!)
+- Performed basic EDA (with useful plots - just for fun!)
 
-Trained a Linear Regression model
+- Trained a Linear Regression model
 
-Evaluated it using R² Score and MSE
+- Evaluated it using R² Score and MSE
 
 <h1>🧠 PLOTS SECTION - IN ORDER TO SHOW OFF THE KNOWLEDGE</h1>
 

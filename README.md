@@ -90,4 +90,8 @@ How close our model gets to real values — good for visual accuracy.
 
 Run the notebook using Jupyter or any Python IDE.
 
+<h1>🤝 Credits</h1>
+
+Project completed as part of a regression assignment to understand linear modeling and visual analysis on real-world data.
+
 
